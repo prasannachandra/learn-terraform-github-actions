@@ -3,4 +3,4 @@
 
 This repo is a companion repo to the [Automate Terraform with GitHub Actions](https://learn.hashicorp.com/tutorials/terraform/github-actions?in=terraform/automation).
 
-Dummmy commit to validate terraform action.
+Dummmy commit to validate terraform action
